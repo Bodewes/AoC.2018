@@ -40,6 +40,16 @@
                 "${workspaceFolder}/Day04/Day04.csproj"
             ],
             "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/Day15/Day15.csproj"
+            ],
+            "problemMatcher": "$msCompile"
         }
     ]
 }
