@@ -23,7 +23,7 @@ namespace Day15
             var data = new List<String>(){ 
                 //Input.TestData, Input.TestData1,Input.TestData2,Input.TestData3,Input.TestData4,Input.TestData5, 
                 //Input.TestData6,
-                Input.Data
+                Input.DataHW
 
                 };
             // Part 1
